@@ -1,0 +1,25 @@
+{
+  "name": "fakerfrom4devs",
+  "version": "1.0.0",
+  "description": "Web Scrapping project that gets random user data from a Brazillian Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaueSabinoSRV17/FakerFrom4Devs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaueSabinoSRV17/FakerFrom4Devs/issues"
+  },
+  "homepage": "https://github.com/KaueSabinoSRV17/FakerFrom4Devs#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.0"
+  }
+}
